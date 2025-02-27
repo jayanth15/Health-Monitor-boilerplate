@@ -1,0 +1,11 @@
+sqlmodel==0.0.8
+apscheduler==3.10.1
+requests==2.31.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+python-jose[cryptography]==3.3.0  # For JWT tokens
+ldap3==2.9.1  # For LDAP authentication
+passlib==1.7.4  # For password hashing
+python-multipart==0.0.6  # For form data parsing
+fastapi>=0.100.0
+uvicorn>=0.20.0
